@@ -13,7 +13,7 @@ namespace WebApi.Middleware
         }
 
         /// <summary>
-        /// taken from https://www.daniaal.com/configuring-swagger-in-net-6/
+        /// taken from https://jayanttripathy.com/using-api-key-authentication-to-secure-asp-net-core-web-api/
         /// </summary>
         /// <param name="context"></param>
         /// <returns></returns>
